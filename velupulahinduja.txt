@@ -10,7 +10,7 @@ Phone Number : <a href = "tel: +919398745022"> +91-9398745022 </a>
 
 Linked-In : <a href = "https://www.linkedin.com/in/hinduja-velupula/"> Velupula Hinduja</a> <br/> </h2>
 
-<h3><span id="a">VelupulaHindu@root</span>:<span id="b">~</span><span id="c">$</span> Fun Fact about me </h3>
+<h3><span id="a">VelupulaHinduja@root</span>:<span id="b">~</span><span id="c">$</span> Fun Fact about me </h3>
 <h2> I love sweets and sleep </h2>
 
 <h3><span id="a">VelupulaHinduja@root</span>:<span id="b">~</span><span id="c">$</span> Quote of the Day </h3>
